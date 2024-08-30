@@ -8,6 +8,11 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 
 <table align="center">
 <tr>
+<td>
+
+[![youtube](https://www.vectorlogo.zone/logos/x/x-icon.svg)](https://www.youtube.com/@persianelectronics)
+
+</td>
 
 <td>
 
