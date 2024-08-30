@@ -2,6 +2,8 @@
 
 Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 
+[!My Personal page](https://parsamajidi.wixsite.com/mysite)
+
 ## 👨‍💻 My Social Media
 
 </br>
