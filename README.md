@@ -1,4 +1,4 @@
-# 🤖 Hi I'm <Parsa Majidi>
+# 🤖 Hi I'm Parsa Majidi
 
 Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 Projects I'm currently working on:
