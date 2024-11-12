@@ -2,7 +2,7 @@
 
 Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 
-[My Personal page](https://parsamajidi.wixsite.com/mysite)
+[My Personal website](https://persianelectronics.github.io/)
 
 ## 👨‍💻 My Social Media
 
@@ -45,7 +45,7 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 
 <td>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=parsamajidi21&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parsamajidi21&theme=dark)](https://git.io/streak-stats)
 
 </td>
 
