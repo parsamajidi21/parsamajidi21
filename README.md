@@ -39,13 +39,13 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parsamajidi21&show_icons=true&theme=nightowl)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamajidi21e&show_icons=true&icon_color=black&hide_border=true"/>
 
 </td>
 
 <td>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=parsamajidi21&theme=dark)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsamajidi21&layout=compact&hide_border=true&langs_count=10"/>
 
 </td>
 
