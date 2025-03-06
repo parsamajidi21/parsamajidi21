@@ -39,13 +39,13 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 <tr>
 <td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamajidi21&show_icons=true&icon_color=dark&hide_border=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamajidi21&show_icons=true&icon_color=dark&hide_border=true&theme=transparent"/>
 
 </td>
 
 <td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsamajidi21&layout=compact&hide_border=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsamajidi21&layout=compact&hide_border=true&langs_count=10&theme=transparent"/>
 
 </td>
 
