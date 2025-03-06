@@ -4,6 +4,11 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 
 [My Personal website](https://persianelectronics.github.io/)
 
+## About Me
+- 💁 Currently I'm mostly focused on exploring the use of the Versal SoCs for implementing quantum machine learning
+- 👯 I’m looking to collaborate on projects
+- 🌱 I’m learning [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+
 ## 👨‍💻 My Social Media
 
 </br>
