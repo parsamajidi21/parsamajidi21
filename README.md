@@ -39,7 +39,7 @@ Embedded System Engineer working [@Kynetics](https://www.kynetics.com/)
 <tr>
 <td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamajidi21e&show_icons=true&icon_color=black&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamajidi21&show_icons=true&icon_color=black&hide_border=true"/>
 
 </td>
 
