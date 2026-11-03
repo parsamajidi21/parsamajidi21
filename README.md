@@ -2,7 +2,7 @@
 
 # Hi, I'm Parsa Majidi 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;Embedded+Linux+%7C+Firmware+%7C+IoT;Open+to+collaboration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;Embedded+Linux+%7C+Yocto+%7C+AOSP;Open+to+collaboration" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parsamajidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsamajidi/)
 [![Profile Views](https://komarev.com/ghpvc/?username=parsamajidi21&style=for-the-badge&color=2F81F7&label=Profile+Views)](https://github.com/parsamajidi21)
@@ -20,8 +20,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,cmake,arduino,raspberrypi,git,docker,vscode&perline=11" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,cmake,raspberrypi,git,docker,vscode&perline=10" alt="Tech stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Yocto_Project-0A7BBB?style=for-the-badge&logo=linux&logoColor=white" alt="Yocto Project" />
+  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="AOSP" />
 </p>
 
 ## 📊 GitHub Stats
